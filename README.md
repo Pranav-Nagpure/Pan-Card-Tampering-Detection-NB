@@ -1,0 +1,1 @@
+### This is IPython Notebook explaination for <a href="https://github.com/Pranav-Nagpure/Pan-Card-Tampering-Detection">Pan Card Tampering Detection Application</a>
